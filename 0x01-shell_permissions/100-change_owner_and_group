@@ -1,2 +1,2 @@
-#!/bin/bash
-chown -hR vincent:staff
+#!/bin/basi
+chmod -h vincent:staff _hello
